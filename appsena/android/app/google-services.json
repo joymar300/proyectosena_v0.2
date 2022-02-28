@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "276967836692",
+    "firebase_url": "https://galeria02-93d9c-default-rtdb.firebaseio.com",
+    "project_id": "galeria02-93d9c",
+    "storage_bucket": "galeria02-93d9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276967836692:android:9631db2c5be9af51d4eb01",
+        "android_client_info": {
+          "package_name": "com.example.appsena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276967836692-mceglhbrkvh0q8j1demdef2hcbkocc8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTzdP_ygPo1elDLlmlmeKzpuNjriJuIVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276967836692-mceglhbrkvh0q8j1demdef2hcbkocc8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276967836692:android:c47d164959d4a751d4eb01",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276967836692-mceglhbrkvh0q8j1demdef2hcbkocc8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTzdP_ygPo1elDLlmlmeKzpuNjriJuIVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276967836692-mceglhbrkvh0q8j1demdef2hcbkocc8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276967836692:android:0011ec46e88e1791d4eb01",
+        "android_client_info": {
+          "package_name": "com.pagina.galeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276967836692-mceglhbrkvh0q8j1demdef2hcbkocc8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTzdP_ygPo1elDLlmlmeKzpuNjriJuIVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276967836692-mceglhbrkvh0q8j1demdef2hcbkocc8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
